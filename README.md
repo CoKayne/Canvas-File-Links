@@ -1,7 +1,7 @@
 # Canvas-File-Links
 
 ### Overview
-**Copy Canvas Files** is an Obsidian plugin that simplifies the process of copying all files linked within a canvas file to your clipboard. With a single click, you can effortlessly gather and use your canvas-linked files outside of Obsidian.
+**Canvas File Links** is an Obsidian plugin that simplifies the process of copying all files linked within a canvas file to your clipboard. With a single click, you can effortlessly gather and use your canvas-linked files outside of Obsidian.
 
 ### Features
 - Adds a button to the left sidebar of Obsidian.
