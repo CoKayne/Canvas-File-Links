@@ -16,8 +16,8 @@ If you're using Obsidian's canvas feature and want a quick way to copy all files
 ### Installation
 
 #### Manual Installation
-1. Download the latest release from the [Releases page](#).
-2. Extract the files to your vault's `.obsidian/plugins` folder.
+1. Download the latest release from the [Releases page](https://github.com/CoKayne/Canvas-File-Links/releases/).
+2. Put `canvas-file-links/` folder under your vault's `.obsidian/plugins` folder.
 3. Enable the plugin in **Settings > Community Plugins**.
 
 ---
