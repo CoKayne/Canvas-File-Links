@@ -1,0 +1,10 @@
+{
+	"id": "canvas-file-links",
+	"name": "Canvas File Links",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Copies the internal links in a canva",
+	"author": "Kayne",
+	"authorUrl": "https://github.com/CoKayne",
+	"isDesktopOnly": true
+}
